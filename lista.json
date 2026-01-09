@@ -4,13 +4,35 @@
     "plataforma": "Xbox 360",
     "novidade": true,
     "imagem": "https://m.media-amazon.com/images/I/81mOunp938L._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seulink"
+    "link": "https://www.mediafire.com/seu-link-gta"
   },
   {
-    "nome": "God of War 3",
+    "nome": "God of War III",
     "plataforma": "PS3",
     "novidade": true,
     "imagem": "https://m.media-amazon.com/images/I/91M1mKOfpFL._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seulink"
+    "link": "https://www.mediafire.com/seu-link-gow"
+  },
+  {
+    "nome": "Minecraft",
+    "plataforma": "Xbox 360",
+    "novidade": false,
+    "imagem": "https://m.media-amazon.com/images/I/81I-u3M+rGL._AC_SL1500_.jpg",
+    "link": "https://www.mediafire.com/seu-link-mc"
+  },
+  {
+    "nome": "Red Dead Redemption",
+    "plataforma": "PS3",
+    "novidade": false,
+    "imagem": "https://m.media-amazon.com/images/I/918pP9-sLXL._AC_SL1500_.jpg",
+    "link": "https://www.mediafire.com/seu-link-rdr"
+  },
+  {
+    "nome": "Menu Premium v2",
+    "plataforma": "Mod Menus",
+    "novidade": true,
+    "imagem": "https://i.imgur.com/u7MhOpx.png",
+    "link": "https://www.mediafire.com/seu-link-mod"
   }
 ]
+
