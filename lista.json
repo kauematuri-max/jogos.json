@@ -3,36 +3,14 @@
     "nome": "GTA V",
     "plataforma": "Xbox 360",
     "novidade": true,
-    "imagem": "https://m.media-amazon.com/images/I/81mOunp938L._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seu-link-gta"
-  },
-  {
-    "nome": "God of War III",
-    "plataforma": "PS3",
-    "novidade": true,
-    "imagem": "https://m.media-amazon.com/images/I/91M1mKOfpFL._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seu-link-gow"
-  },
-  {
-    "nome": "Minecraft",
-    "plataforma": "Xbox 360",
-    "novidade": false,
-    "imagem": "https://m.media-amazon.com/images/I/81I-u3M+rGL._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seu-link-mc"
+    "imagem": "https://www.vgdb.com.br/gf/fotos/games/media_105793/grand-theft-auto-v-105793.jpg",
+    "link": "COLE_AQUI_O_LINK_DO_DOWNLOAD"
   },
   {
     "nome": "Red Dead Redemption",
-    "plataforma": "PS3",
-    "novidade": false,
-    "imagem": "https://m.media-amazon.com/images/I/918pP9-sLXL._AC_SL1500_.jpg",
-    "link": "https://www.mediafire.com/seu-link-rdr"
-  },
-  {
-    "nome": "Menu Premium v2",
-    "plataforma": "Mod Menus",
+    "plataforma": "Xbox 360",
     "novidade": true,
-    "imagem": "https://i.imgur.com/u7MhOpx.png",
-    "link": "https://www.mediafire.com/seu-link-mod"
+    "imagem": "https://m.media-amazon.com/images/I/81z9vAIdSGL._AC_SL1500_.jpg",
+    "link": "COLE_AQUI_O_LINK_DO_DOWNLOAD"
   }
 ]
-
