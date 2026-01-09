@@ -1,16 +1,27 @@
 [
-  {
-    "nome": "GTA V",
-    "plataforma": "Xbox 360",
-    "novidade": true,
-    "imagem": "https://www.vgdb.com.br/gf/fotos/games/media_105793/grand-theft-auto-v-105793.jpg",
-    "link": "COLE_AQUI_O_LINK_DO_DOWNLOAD"
-  },
-  {
-    "nome": "Red Dead Redemption",
-    "plataforma": "Xbox 360",
-    "novidade": true,
-    "imagem": "https://m.media-amazon.com/images/I/81z9vAIdSGL._AC_SL1500_.jpg",
-    "link": "COLE_AQUI_O_LINK_DO_DOWNLOAD"
-  }
+  {"nome":"GTA V","plataforma":"Xbox 360","novidade":true,"imagem":"https://www.vgdb.com.br/gf/fotos/games/media_105793/grand-theft-auto-v-105793.jpg","link":"COLE_O_LINK"},
+  {"nome":"Red Dead Redemption","plataforma":"Xbox 360","novidade":true,"imagem":"https://i.ibb.co/pB8z0Xz/rdr1.jpg","link":"COLE_O_LINK"},
+  {"nome":"Minecraft","plataforma":"Xbox 360","novidade":true,"imagem":"https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-1200x1677.jpg","link":"COLE_O_LINK"},
+  {"nome":"God of War III","plataforma":"PS3","novidade":true,"imagem":"https://i.ibb.co/vXmS8n3/gow3.jpg","link":"COLE_O_LINK"},
+  {"nome":"The Last of Us","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/91M1mKOfpFL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"GTA San Andreas","plataforma":"Android","novidade":true,"imagem":"https://m.media-amazon.com/images/I/71s86m9A9FL._AC_SL1000_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Bully Anniversary","plataforma":"Android","novidade":true,"imagem":"https://m.media-amazon.com/images/I/71K9M6oP1XL._AC_SL1000_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Menu Premium v2","plataforma":"Mods","novidade":true,"imagem":"https://i.imgur.com/u7MhOpx.png","link":"COLE_O_LINK"},
+  {"nome":"FIFA 19","plataforma":"Xbox 360","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81xUeK-E+cL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Resident Evil 4","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81N3S7S2S3L._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Call of Duty Black Ops 2","plataforma":"Xbox 360","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81G9o3lYhSL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Skyrim","plataforma":"Xbox 360","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81+mC+vX9mL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Naruto Storm 3","plataforma":"Xbox 360","novidade":false,"imagem":"https://m.media-amazon.com/images/I/91rY9m9A9FL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Assassins Creed IV","plataforma":"Xbox 360","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81s86m9A9FL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Far Cry 4","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81N3S7S2S3L._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Mortal Kombat Komplete","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81G9o3lYhSL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Batman Arkham City","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/91rY9m9A9FL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"F1 2014","plataforma":"PS3","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81xUeK-E+cL._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Minecraft Pocket Edition","plataforma":"Android","novidade":false,"imagem":"https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-1200x1677.jpg","link":"COLE_O_LINK"},
+  {"nome":"Roblox Mod","plataforma":"Mods","novidade":false,"imagem":"https://i.imgur.com/u7MhOpx.png","link":"COLE_O_LINK"},
+  {"nome":"Stardew Valley Mod","plataforma":"Mods","novidade":false,"imagem":"https://i.imgur.com/u7MhOpx.png","link":"COLE_O_LINK"},
+  {"nome":"Shadow Fight 2 Mod","plataforma":"Mods","novidade":false,"imagem":"https://i.imgur.com/u7MhOpx.png","link":"COLE_O_LINK"},
+  {"nome":"PPSSPP Gold","plataforma":"Android","novidade":false,"imagem":"https://m.media-amazon.com/images/I/71s86m9A9FL._AC_SL1000_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Need for Speed MW","plataforma":"Android","novidade":false,"imagem":"https://m.media-amazon.com/images/I/81mOunp938L._AC_SL1500_.jpg","link":"COLE_O_LINK"},
+  {"nome":"Modern Combat 5","plataforma":"Android","novidade":false,"imagem":"https://m.media-amazon.com/images/I/71K9M6oP1XL._AC_SL1000_.jpg","link":"COLE_O_LINK"}
 ]
